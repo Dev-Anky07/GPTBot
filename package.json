@@ -1,0 +1,17 @@
+{
+  "name": "node-index.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Index.js",
+  "scripts": {
+      "test": "Oh no, My brain, It's Broken :("
+  }, 
+  "type": "module",
+  "author": "Anky",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.3.1",
+    "openai": "^3.3.0"
+  }
+}
