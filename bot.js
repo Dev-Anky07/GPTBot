@@ -1,3 +1,4 @@
+import fs from "fs";
 import dotenv from "dotenv";
 import { Client, GatewayIntentBits } from "discord.js";
 import { Configuration, OpenAIApi } from "openai";
@@ -17,29 +18,28 @@ const openai = new OpenAIApi(new Configuration({
   })
 );
 
-client.on("messageCreate", async function (message) {
-  if (message.author.bot) return;
-  
-  // Check if the message mentions the bot
-  const botMentioned = message.mentions.has(client.user);
+// Add Context to the bot using your content library
 
-  if (botMentioned) {
+client.on("messageCreate", async function (message) {
+    if (message.author.bot) return;
+    
     try {
       const response = await openai.createChatCompletion({
-        model: "gpt-3.5-turbo",
-        messages: [
-          { role: "system", content: "You are like a friend who gives sarcastic, leg pulling responses but all in good fun" },
-          { role: "user", content: message.content }
-        ],
-      });
-
+          model: "gpt-3.5-turbo",
+          messages: [
+              {role: "system", content: "You are like a friend who gives sarcastic, leg pulling responses but all in good fun"},
+              {role: "user", content: message.content}
+          ],
+        });
+  
       const content = response.data.choices[0].message;
       return message.reply(content);
-
+  
     } catch (err) {
-      return message.reply("I do not know.");
+      return message.reply(
+        "I'm sorry, I'm not smart enogh to tell you that."
+      );
     }
-  }
-});
+  });
 
 client.login(process.env.BOT_TOKEN);

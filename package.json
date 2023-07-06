@@ -1,11 +1,11 @@
 {
   "name": "node-index.js",
   "version": "1.0.0",
-  "description": "",
+  "description": "A discord Bot powered by Chat GPT",
   "main": "Index.js",
   "scripts": {
-      "test": "Oh no, My brain, It's Broken :("
-  }, 
+    "test": "Oh no, My brain, It's Broken :("
+  },
   "type": "module",
   "author": "Anky",
   "license": "ISC",
@@ -13,5 +13,6 @@
     "discord.js": "^14.11.0",
     "dotenv": "^16.3.1",
     "openai": "^3.3.0"
-  }
+  },
+  "devDependencies": {}
 }
