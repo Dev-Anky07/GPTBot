@@ -12,8 +12,7 @@ const client = new Client({
   ],
 });
 
-const openai = new OpenAIApi(
-  new Configuration({
+const openai = new OpenAIApi(new Configuration({
     apiKey: process.env.OPENAI_API_KEY,
   })
 );
@@ -44,6 +43,8 @@ client.on("messageCreate", async function (message) {
       const response = await openai.createChatCompletion({
         model: "gpt-3.5-turbo",
         messages,
+        temperature: 0.1, // Set the temperature parameter (adjust as desired)
+        maxTokens: 1000, // Set the maxTokens parameter (adjust as desired)
       });
 
       const content = response.data.choices[0].message;
@@ -55,7 +56,7 @@ client.on("messageCreate", async function (message) {
 
   } catch (err) {
     console.error(err);
-    await message.reply("As an AI robot, I errored out.");
+    await message.reply("I'm sorry, I'm not smart enogh to tell you that.");
   }
 });
 
