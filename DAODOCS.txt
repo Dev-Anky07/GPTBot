@@ -1,0 +1,374 @@
+﻿APECOIN IS FOR THE WEB3 ECONOMY.
+Culture has found new expression in web3 through art, gaming, entertainment, and events. The possibilities for blockchain’s impact on culture are so endless that they can’t possibly all be predicted yet. APE is a token made to support what’s next, controlled and built on by the community. It will serve as a decentralized protocol layer for community-led initiatives that drive culture forward into the metaverse.
+THE APE FOUNDATION
+The APE Foundation is the steward of ApeCoin. It is not an overseer, but the base layer on which ApeCoin holders in the ApeCoin DAO can build.
+The Foundation facilitates decentralized and community-led governance and is designed to become more decentralized over time. It is tasked with administering the decisions of the ApeCoin DAO, and is responsible for day-to-day administration, bookkeeping, project management, and other tasks that ensure the DAO community’s ideas have the support they need to become a reality.
+The goal of the APE Foundation is to steward the growth and development of the APE ecosystem in a fair and inclusive way. It utilizes the Ecosystem Fund, which is controlled by a multisig wallet, to pay its expenses as directed by the ApeCoin DAO and provides an infrastructure for ApeCoin holders to collaborate through open and permissionless governance processes.
+THE DAO
+ApeCoin DAO exists because decentralized governance is critical to building and managing a globally dispersed community—and therefore critical to the success of the APE ecosystem.
+The APE Improvement Proposal Process (see Governance) will allow ApeCoin DAO members to make decisions regarding Ecosystem Fund allocations, governance rules, projects, partnerships, and beyond. ApeCoin DAO membership is open to all ApeCoin holders.
+THE BOARD
+A special council on the APE Foundation (the DAO’s “Board”) provides, at the behest of the ApeCoin DAO members, oversight of the Foundation administrators. The purpose of the Board is to administer DAO proposals and serve the vision of the community. It meets on proposals requiring administrative review under ApeCoin DAO rules. The initial Board serves a term of six months, after which DAO members will vote annually on Board members.
+The first five Special council members were Alexis onchain, Bored ape G, Gerry, Vera and Yat siu.
+Since then Alexis and Yat’s term has ended and they have been replaced by Wabaam and Captain Trippy who’ll start their one year term from July 2023.
+APECOIN PROTOCOL
+ApeCoin is an ERC-20 governance and utility token used within the APE ecosystem to empower a decentralized community building at the forefront of web3.
+As the open-source protocol layer of the ecosystem, ApeCoin serves several purposes:Governance : ApeCoin is the ecosystem’s governance token, allowing ApeCoin holders to participate in ApeCoin DAO.
+Unification of Spend : ApeCoin is the ecosystem’s utility token, giving all its participants a shared and open currency that can be used without centralized intermediaries.
+Access : ApeCoin provides access to certain parts of the ecosystem that are otherwise unavailable, such as exclusive games, merch, events, and services.
+Incentivization : ApeCoin is a tool for third-party developers to participate in the ecosystem by incorporating APE into services, games, and other projects.
+APECOIN ALLOCATION
+The total supply of ApeCoin is permanently fixed at 1 billion tokens. No minting capability is exposed through the contract interface, thus the total supply will never increase. Similarly, the contract interface does not expose any token burning capability, so the total supply will never decrease.
+In line with the standard practice, a portion of the tokens for contributors to the project will be initially locked. Locked tokens will be unlocked over a period of 48 months, in accordance with the predetermined unlock schedule in the chart below, starting on launch day, March 17, 2022.
+ApeCoin will be distributed among four main groups, as detailed in the chart below. Wallets holding tokens alloted to the DAO treasury and resources can be viewed here.
+
+
+62%
+ECOSYSTEM FUND
+BAYC/MAYC NFT holders and treasury/resources
+150,000,000 tokens to BAYC/MAYC
+All unlocked for claim at launch
+470,000,000 tokens to DAO treasury and resources
+117,500,000 unlocked at launch, then 7,343,750 unlocked per month for 48 months
+16%*
+YUGA LABS + CHARITY
+The company behind BAYC and continuing contributor
+*6.25% worth of Yuga Labs holdings are being donated to the Jane Goodall Legacy Foundation.
+150,000,000 tokens to Yuga Labs
+Initial lock-up 12 months, then 4,166,666.67 unlocked per month for 36 months
+10,000,000 tokens or equal value donated to the Jane Goodall Legacy Foundation
+Initial lock-up 12 months, then 277,777.78 tokens unlocked per month for 36 months
+14%
+LAUNCH CONTRIBUTORS
+The companies and people that helped make this project a reality
+140,000,000 tokens to launch contributors. Lockup schedules vary by contributor but fall into one of the following:
+• 10,000,000 tokens upfront, 25,000,000 after 6 months, 25,000,000 after 12 months, and 25,000,000 after 18 months
+• Initial lock-up for 12 months, then 757,575.76 unlocked per month for 33 months
+• Initial lock-up for 12 months, then 833,333.33 unlocked per month for 36 months
+8%
+BAYC FOUNDERS
+The ones who put the Ape in ApeCoin, the four founders of Yuga Labs and BAYC
+80,000,000 tokens to founders of Yuga Labs
+Initial lock-up for 12 months, then 2,222,222.22 unlocked per month for 36 months
+APECOIN CLAIMING FOR BAYC AND MAYC HOLDERS
+Tokens will be allocated to BAYC/MAYC members via the claim page starting on March 17, 2022 at 8:30AM ET.
+To ensure a fair launch of ApeCoin to BAYC and MAYC NFT holders, the allocation is informed by the difference in floor price between each collection of NFTs, roughly the month prior to the token claim launch (02/07/22 to 03/08/22). Each Bored Ape or Mutant Ape NFT that has a companion Bored Ape Kennel Club NFT will be able to claim the amount of ApeCoin specified below.
+Bored Ape + Kennel Club  : 10,950 tokens
+Mutant Ape + Kennel Club : 2,898 tokens 
+Bored Ape only : 10,094 tokens
+Mutant Ape only : 2,042 tokens
+(token IDs do not need to match)
+
+
+There is no distinction between Mutant Ape types for the claim.
+Ape + Kennel token IDs do not need to match to claim, nor does having the original pairing entitle any extra tokens.
+This is a one-time claim that will identify all eligible NFTs in your wallet, in the order that they appear. There will not be an option to deselect an eligible NFT if it is present in your wallet. If you wish to claim for one of your NFTs but not another, you will need to move them to separate wallets.
+A Bored Ape or Mutant Ape that has claimed its tokens cannot be used later to claim tokens for an accompanying Kennel Club. All paired NFTs must be claimed together at the same time.
+Unused Bored Ape Chemistry Club serums do not qualify for token claim.
+The airdrop claim tokens associated with any NFT can only be claimed once. In order to check whether a certain BAYC, MAYC (or companion BAKC) has claimed its tokens, use the below checker.
+There will be Ethereum network gas fees incurred to claim ApeCoin.
+HOW IT WORKS
+15% of the total ApeCoin token supply allocated to BAYC/MAYC holders for claim will be transferred to a smart contract. Ownership of the contract will be transferred to a multisig wallet, which will be responsible for:
+* initiating the BAYC/MAYC/BAKC claim period
+* ending the claim period 90 days after launch
+* taking ownership of all unclaimed APE tokens at the end of the claim period
+* transferring these unclaimed tokens to the Coinbase Custody wallets that constitute the Ecosystem Fund
+The airdrop claim tokens associated with any NFT can only be claimed once. In order to check whether a certain BAYC, MAYC (or BAYC or MAYC with a companion BAKC) has claimed its tokens, use the NFT checker:
+APE FOUNDATION IP
+The APE Foundation was gifted a 1 of 1 NFT by Yuga Labs, the creators of Bored Ape Yacht Club. Yuga Labs has conveyed all rights and privileges to this NFT and its underlying artwork to the APE Foundation. The ApeCoin DAO can decide how this intellectual property is used.
+FAQ
+WHO/WHAT ARE THE DIFFERENT ENTITIES AND NAMES, AND HOW DO THEY RELATE TO EACH OTHER?
+* Yuga Labs - Yuga Labs is a web3 company best known for the creation of the Bored Ape Yacht Club. It will be a community member in the ApeCoin DAO and will adopt APE as the primary token across new projects.
+* BAYC - The Bored Ape Yacht Club is a collection of digital art crafted into NFTs where the token itself doubles as a membership to a swamp club for apes.
+* APE Foundation - The APE Foundation is the steward of ApeCoin, a legal entity that exists to administer the decisions of the ApeCoin DAO.
+* ApeCoin DAO - A decentralized governance organization that will make decisions regarding Ecosystem Fund allocations, governance rules, projects, partnerships, and more. ApeCoin DAO membership is open to all ApeCoin holders.
+* APE - The symbol for ApeCoin token.
+DOES THE FOUNDATION CONTROL APECOIN AND/OR THE APECOIN DAO? IF NOT, WHAT ROLE DO THEY PLAY?
+The Foundation does not control ApeCoin or the ApeCoin DAO. The Foundation consists of an administrative Board, which exists solely to oversee the decisions of the ApeCoin DAO, as well as a third party project management team in charge of ensuring ApeCoin DAO decisions are implemented.
+A decentralized autonomous organization (DAO) is the best way to give every member of the community a vote on important decisions whether it's a technical upgrade or a decision to fund a new idea. However, the reality is that today a DAO cannot sign a lease or hire people or make merch or whatever the community decides to do on its own. The Foundation is responsible for the day-to-day administration, bookkeeping, project management, and other tasks that ensure the ApeCoin DAO community’s ideas have the support they need to become a reality.
+HOW WAS THE FOUNDATION BOARD SELECTED?
+Certain members of the community that have strong operational experience were consulted on how to best structure the ApeCoin DAO. Several of these members voiced their willingness to join the Board to oversee the decisions of the community and are committed to upholding and furthering the decentralization of the ApeCoin DAO. The initial Board will serve 6 months.
+WILL THERE BE A CHANCE FOR OTHER INDIVIDUALS TO JOIN THE BOARD?
+Yes. After the initial 6-month term, DAO members will vote annually to keep existing or appoint new Board members. ApeCoin token holders (the DAO members) can also remove or replace a Board member at any time with a majority “In favor” vote.
+WHAT ROLE DOES YUGA LABS PLAY IN ALL OF THIS?
+Yuga Labs is a contributor to the APE Ecosystem and will assist in the creation of products and experiences for the ecosystem as a whole.
+WHAT WILL THE CHARITABLE DONATION TO THE JANE GOODALL LEGACY FOUNDATION BE USED FOR?
+The donation will help secure an invested endowment for the JGLF, helping to fund projects including:
+* Long-term research at the Gombe Stream Research Center in Western Tanzania (which been conducted continuously for more than six decades)
+* Lake Tanganyika Catchment Reforestation and Education (TACARE), community-centered conservation that preserves chimp habitats in six African countries
+* Conservation science that explores, innovates, and discovers new solutions, technologies and tools to protect the environment and wildlife
+* Roots & Shoots, a program active in 60+ countries that empowers young people (kindergarten through university) to become involved in hands-on projects for people, animals, and the environment
+HOW WERE THE TOKEN ALLOTMENTS FOR BAYC, MAYC, AND BAKC NFT HOLDERS CALCULATED?
+The allotment of ApeCoin to NFT holders was a ratio based on the average floor price of BAYC and MAYC from roughly the month prior to launch (02/07/22 to 03/08/22).
+WHY DON’T THOSE WITH ONLY BAKC NFTS GET A TOKEN ALLOTMENT?
+BAKC NFTs are companion NFTs to BAYC and MAYC, meaning they don’t have utility on their own, only when paired with a BAYC or MAYC
+
+
+APECOIN DAO GOVERNANCE
+The ApeCoin community governs itself via the ApeCoin DAO, the decentralized governance framework that supports the Ecosystem Fund. The DAO follows a proposal process to vote on how the Ecosystem Fund will be distributed by the APE Foundation to promote a diverse and self-sustaining ecosystem.
+This governance guide is an overview of the proposal process. It’s a living document that will evolve and improve with the DAO community’s input.
+MEMBERSHIP
+Participating in idea submission, commentary, proposal submission, and voting is restricted to ApeCoin DAO members. Holding ApeCoin is the only requirement for membership in the DAO.
+GUIDING VALUES
+* Boldness: We don’t shy away from the weird, the hard, or the new.
+* Equality: One APE equals one APE.
+* Transparency: Processes and decisions are shared openly with the community.
+* Collective Responsibility: We leave everything better than we found it.
+* Persistence: Success is an ouroboros, not a straight line.
+COMMUNICATION CHANNELS
+The APE Foundation website is the DAO hub, providing an interface to educate DAO members on the governance process and provide easy access to the channels below in order to streamline the DAO’s operation and enhance its utility.
+Discourse is the first stop for all proposals. An AIP (Ape Improvement Proposal) Idea is submitted as a post in Discourse and must receive confirmation from a moderator that it complies with DAO-approved guidelines before it appears to the community. ApeCoin holders must go through a wallet authentication process to post ideas or give feedback to ideas via comments.
+Snapshot is used for voting. Proposal drafts that have passed their respective approval processes become available for voting on Snapshot. ApeCoin holders must go through a wallet authentication process to vote.
+PROPOSAL PROCESS
+ApeCoin DAO is launching its community-led governance via a formal proposal process based on the one implemented and proven out over time by Ethereum’s EIP system.
+PROPOSAL CATEGORIES
+There are three main categories an AIP (Ape Improvement Proposal) can fall under: Core, Process, or Informational. Core proposals have two subcategories, Brand Decision and Ecosystem Fund Allocation. Proposals that are being resubmitted must be classified as such.
+CORE: ECOSYSTEM FUND ALLOCATION
+Proposals for how DAO funds should be utilized.
+CORE: ECOSYSTEM FUND ALLOCATION (RESUBMISSION)
+Resubmitted proposals for how DAO funds should be utilized.
+CORE: BRAND DECISION
+Proposals for anything the DAO attaches its name to, including projects and collaborations.
+CORE: BRAND DECISION (RESUBMISSION)
+Resubmitted proposals for anything the DAO attaches its name to, including projects and collaborations.
+PROCESS
+Proposals for making a change to a process or implementation. Examples include procedures, guidelines, changes to the decision-making process, and changes to the tools or environment of the DAO or Foundation.
+PROCESS (RESUBMISSION)
+Resubmitted proposals for making a change to a process or implementation. Examples include procedures, guidelines, changes to the decision-making process, and changes to the tools or environment of the DAO or Foundation.
+INFORMATIONAL
+Proposals for general guidelines or information for the community.
+INFORMATIONAL (RESUBMISSION)
+Resubmitted proposals for general guidelines or information for the community.
+PROPOSAL TEMPLATE
+A proposal typically includes:
+* Abstract - Two or three sentences that summarize the proposal.
+* Motivation - A statement on why the APE Community should implement the proposal.
+* Rationale - An explanation of how the proposal aligns with the APE Community’s mission and guiding values.
+* Key Terms (optional) - Definitions of any terms within the proposal that are unique to the proposal, new to the APE Community, and/or industry-specific.
+* Specifications - A detailed breakdown of the platforms and technologies that will be used.
+* Steps to Implement - The steps to implement the proposal, including associated costs, manpower, and other resources for each step where applicable.
+* Timeline - Relevant timing details, including but not limited to start date, milestones, and completion dates.
+* Overall Cost - The total cost to implement the proposal.
+The author can add additional fields to any template if necessary to fully communicate the intentions, specifics, and implications of the AIP Draft.
+Proposals that did not make it through the respective approval process and are being resubmitted should also include:
+* Link to original proposal
+* Reason it was not approved
+* Changes that have been made and why it should now be approved
+The author can add additional fields to any template if necessary to fully communicate the changes made and the intentions, specifics, and implications of the resubmitted AIP Draft.
+PROPOSAL PHASES
+PHASE 1: AIP IDEA
+An AIP Idea is submitted as a post in Discourse and must receive moderator confirmation that it complies with DAO-approved guidelines before it appears to the community. The person or people submitting the AIP Idea will be referred to as the author or authors (please note that multiple members can work together on an AIP idea, but it should be submitted only once). The AIP idea informally gathers comments via Discourse for seven days. The author cannot edit the original post — if the author wants to propose changes to the original idea, they must do this via the comments.
+PHASE 2: AIP DRAFT
+Once the seven-day feedback window has passed and a moderator closes the Discourse topic, a moderator will send the author the proposal template and next steps for submission and voting. They may also suggest a proposal category, if not already specified in Discourse.
+The author will fill out the template, incorporating any Discourse feedback that helps the idea better serve the DAO. The author can add additional fields to the template if necessary to fully communicate the intentions, specifics, and implications of the AIP Draft. The moderator may also inform the author of incorrect or missing information that needs to be changed or clarifications that need to be made. If the author does not respond to those moderator requests within 30 days, the AIP Draft will be automatically rejected.
+When the moderator confirms an AIP Draft complies with DAO-approved guidelines, they assign a number to the AIP for identification purposes throughout the rest of the process. From this point on, the AIP is referred to as “AIP-#: (Name) - (Category)”. For example the first AIP is “AIP-1: Proposing the DAO - Process”.
+PHASE 3: AIP ANALYSIS REPORT
+The AIP Draft is reviewed by a project management team engaged by APE Foundation who will provide an AIP Analysis Report to ensure costs, steps to implement, legal considerations, third-party review requirements, potential conflicts of interests, and any further implications have been identified. Given that AIP authors may be submitting drafts with little to no resources, this service for the DAO community ensures that DAO members have enough information about proposals to make informed decisions when voting.
+PHASE 4: AIP MODERATION
+The AIP Draft + Analysis Report (DAR) Package is reviewed by a team of moderators and either approved or not approved based on whether it adheres to the DAO-approved guidelines. If approved, it becomes a Pending AIP and moves to Phase 5. If not approved, it is eligible for resubmission, except in cases of violation of the law or reasonable suspicion of fraud or other misleading information.
+PHASE 5: POST-MODERATION TAGGING
+Pending AIPs that have passed AIP Moderation are tagged as “Straight to Vote” or “Needs Administrative Review.”
+The “Straight to Vote” tag is given to a pending AIP whose costs, content, and implications are considered straightforward and of no risk to the well-being of the DAO. Any Pending AIP that is tagged as “Straight to Vote” will skip to Phase 7.
+The “Needs Administrative Review” tag is given to a pending AIP whose costs, content, or implications are considered complicated or a potential risk to the well-being of the DAO. Any Pending AIP that is tagged as “Needs Administrative Review” must go through Phase 6.
+PHASE 6: ADMINISTRATIVE REVIEW
+For Pending AIPs that have been tagged with “Needs Administrative Review,” the Board, serving in an administrative capacity, will determine whether clarification or action is required before moving a Pending AIP to Phase 7. If clarification or action is not needed, the Pending AIP is tagged as “Approved for Voting” and proceeds to Phase 7. If the Board decides to return a Pending AIP for further clarification or action, they must provide a clear explanation of why and tag it as either “Return for Clarification” or “Return for Reconstruction.”
+Reasons to tag as “Return for Clarification” may include but are not limited to:
+* Cost to implement unclear/not able to be calculated
+* Would use more than 5% of the DAO treasury
+* Conflicts with another proposal
+Reasons to tag as “Return for Reconstruction” may include but are not limited to:
+* Proposal is at odds with the mission/values of the DAO
+* Proposal is at odds with the well-being of the DAO
+* Violations of law, or against advice of counsel for APE Foundation
+* Reasonable suspicion of fraud or other misleading information
+PHASE 7: LIVE AIP
+Drafts that have passed their respective approval processes will become Live AIPs on Snapshot during the next Weekly AIP Release, which is when new AIPs are released in batches Thursdays at 9PM ET. Once live on Snapshot, Live AIPs are open to voting until Weekly Voting Close, which is at 9PM ET on the Wednesday following their release. Moderators are the only ones that can post AIPs to Snapshot because they must confirm that each one has gone through the correct approvals process.
+PHASE 8: FINAL AIP
+If a Live AIP has not gotten any votes or is tied by the Vote Close Time, it will be tagged as “Stalled” and be eligible for Resubmission. In all other cases, Live AIPs are moved to one of two Final AIP categories. Rejected Final AIPs can be resubmitted via the appropriate Resubmission Template if the author contacts a moderator. Accepted Final AIPs move into Implementation.
+PHASE 9: IMPLEMENTATION
+For Accepted Final AIPs, implementation will begin based on the steps outlined in the AIP template. The project management team engaged by the APE Foundation is responsible for making sure this happens, but is not responsible for doing it themselves.
+PROPOSAL CONFLICTS
+If a suggested proposal directly conflicts with a proposal that is currently up for vote, the second proposal should not go for a vote until a decision is made on the first proposal to avoid approval of opposing requirements.
+A suggested proposal that directly conflicts with another approved proposal cannot go to vote for three months after the original proposal has been implemented to avoid wasting community assets.
+VOTING
+ApeCoin DAO’s consensus mechanism aims to make placing votes fair, transparent, and low-cost, so that ApeCoin holders can participate in the decision-making of the DAO.
+VOTING MECHANISM
+Snapshot was chosen as a voting tool that:
+* doesn’t require gas payment
+* ensures transparency
+* expands governance participation to all holders of ApeCoin
+VOTING PROCESS
+1. Moderators post AIPs to Snapshot after ensuring that each one has gone through the correct approvals process. New AIPs are posted every week on Thursday at 9PM ET. This is when the six-day voting window opens as well.
+2. DAO members vote on Snapshot. One ApeCoin is equal to one vote. As votes cannot be divided into fractions and the total number of votes shouldn’t ever exceed the number of tokens minted, the number of votes will be rounded down if a fractional number of tokens is owned by the voter (i.e., 100.1 tokens will result in 100 votes, and so will 100.9 tokens). The voting options for a Live AIP are “In favor” and “Against.” Voting “In favor” means the voter is in favor of implementing the AIP exactly as-is. Voting “Against” means the vote is against implementing the AIP exactly as-is — you may vote “Against” to encourage the author to resubmit the AIP after making changes.
+3. The voting for each proposal in each weekly batch will be open for voting for six days, closing at 9PM ET on the following Wednesday.
+4. Proposals that receive a majority “In favor” vote are moved into implementation. Proposals that are rejected will have the chance to be resubmitted via the appropriate Resubmission Template if the author contacts a moderator to initiate this process. If by the Vote Close Time the Live AIP has not gotten any votes or is tied, it will be tagged as “Stalled” and be eligible for Resubmission.
+VOTING DELEGATION
+DAO members have the ability to delegate their vote.
+* DAO members can delegate their vote to another DAO member that they consider to be a trusted subject matter expert.
+* Voting delegation is the mechanism by which DAO members with tokens under initial lock-up will be able to vote.
+THE FUTURE OF APECOIN DAO
+Over time, ApeCoin DAO will transition the proposal and voting mechanisms into a full, on-chain platform in a form determined by the community. The DAO can do this by:
+* Hiring DAO members to take care of administrative, project management, and moderation tasks to replace the company appointed
+* Creating a community-steering committee
+* Implementing on-chain voting
+* Voting annually to elect members for the DAO’s Board (the initial Board is in place for a shorter term of six months)
+REFERENCE
+APECOIN DAO TERMINOLOGY
+* AIP (APE Improvement Proposal) - a document proposing a new feature, project, activity, goal, piece of information, or change to any proposal that has already been implemented.
+* AIP Idea - the first step in the process of creating an official AIP, which will be presented to the community for gathering informal feedback for a period of seven days.
+* AIP Draft - the second step in the process of creating an official AIP, which can only be submitted after the original AIP idea has gathered feedback from the community for seven days in the proper channel. An AIP draft must be submitted directly to a moderator via predetermined AIP templates.
+* AIP Template - the preset format for an AIP draft, which will vary slightly depending on the nature of the intended AIP.
+* AIP Author - the DAO member responsible for beginning the APE Improvement Process, starting with presenting the idea to the community via the proper AIP idea process. The AIP author is responsible for incorporating relevant feedback, submitting the subsequent AIP draft via the proper AIP template to the moderator, and responding to questions or requests for clarifications from DAO members and moderators. Any ApeCoin holder can be an AIP author.
+* AIP Categories - the predetermined classification system for organizing AIPs by their nature or intent. They are: Core Proposal, Ecosystem Fund Allocation Proposal (a subcategory of Core Proposal), Brand Decision Proposal (a subcategory of Core Proposal), Process Proposal, and Informational Proposal.
+* Core Proposal - a proposal that would be considered the main activities of the DAO, with subcategories that can be expanded on over time via proposal submission.
+* Ecosystem Fund Allocation Proposal - a proposal about how the Ecosystem Fund should be spent. A subcategory of Core Proposals.
+* Brand Decision Proposal - a proposal about to whom the community wants to attach its name. This is different from an Ecosystem Fund Allocation Proposal in that it can have associated costs to implement but is not at its core a proposal about Ecosystem Fund Allocation. A subcategory of Core Proposals.
+* Process Proposal - a proposal about making a change to a process or proposing an implementation. Examples include procedures, guidelines, changes to the decision-making process, and changes to the tools or environment of the DAO or Foundation.
+* Informational Proposal - a proposal that provides general guidelines or information to the community but does not propose a new feature.
+* Resubmission Proposal - a proposal that was previously submitted but did not pass either due to initial rejection by moderators or the Board, or by not passing a vote. All proposal categories have a special template for resubmission that the author must link to the original proposal, clearly state why it did not pass, and clearly explain how the resubmission is different.
+* AIP Analysis Report - a report conducted by a project management team engaged by the APE Foundation to ensure that all costs, steps to implement, legal considerations, third-party review requirements, potential conflicts of interests, and any further implications have been properly considered and identified. This is considered to be a service for the community given that AIP authors will be submitting drafts with little to no resources.
+* APE Improvement Proposal Draft & Analysis Report (AIP DAR Package) - both the AIP Draft (submitted by the author) and the AIP Analysis Report (submitted by the project management team engaged by the APE Foundation) should be defined as a package after the analysis report is conducted, as they should only be considered together from that point on.
+* AIP Moderation - the act of reviewing an AIP DAR Package to determine whether or not the AIP draft meets the predetermined and DAO-approved guidelines and therefore is eligible to move to the next step in the process. If an AIP DAR Package passes AIP Moderation, it becomes a Pending AIP.
+* Pending AIP - the AIP status after AIP DAR, which is only reached if it passes AIP Moderation.
+* Post-Moderation Tagging - the process of tagging all Pending AIPs that have successfully been through the AIP analysis report and AIP moderation phases. There are two tags given at this stage: 1) “Straight to Vote,” which is for any pending AIP where costs, content, and implications are considered to be straightforward and of no risk to the well-being of the DAO. 2) “Needs Administrative Review,” which is for any pending AIP with costs, content, or implications that are considered to be complicated or a potential risk to the well-being of the DAO and therefore must be reviewed by the Board of the DAO.
+* Administrative Review - the process of evaluating pending AIPs that have been tagged as “Needs Administrative Review” to determine whether they should be halted or sent to vote by the community.
+* Return for Clarification - a type of administrative classification that requires the AIP author to clarify certain information regarding the Pending AIP. This classification would be given in cases such as cost to implement being unclear, proposing to utilize a larger percentage of the Ecosystem Fund than is justified based on the value it would provide to the community, or being in direct conflict with an active AIP.
+* Return for Reconstruction - a type of administrative classification that requires the proposer to restart the proposal submission process because the Pending AIP violates DAO-approved requirements, or in cases of violation of the law, reasonable suspicion of fraud or other misleading information, or the pending AIP being at odds with the mission, values, or well-being of the Foundation or DAO.
+* Weekly AIP Release - every Thursday at 9PM ET, when all AIPs that are ready to go live are released together in a batch.
+* Weekly Voting Close - when all AIPs in a Weekly AIP Release batch close for voting, which happens the following Wednesday at 9PM ET.
+* Live AIP - an AIP that has passed all required approval stages and is launched for the community to vote on it. The voting options for a Live AIP are “In favor” and “Against.” Voting “In favor” means the voter is in favor of implementing the AIP exactly as-is. Voting “Against” means the voter is against implementing the AIP exactly as-is — voters may vote “Against” to encourage the author to resubmit the AIP after making changes.
+* Final AIP - an AIP that has completed the voting process. There are two subcategories here: Accepted and Rejected.
+* Implementation of Accepted AIP - the process of implementing an AIP that has been accepted by the community via a vote, based on the predetermined steps laid out in the Draft/Template and Analysis Report phases.
+GENERAL GUIDELINES
+1. Every year, there is a DAO-wide vote to determine which DAO members will serve on a special council on the APE Foundation (the DAO’s “Board”). The purpose of the Board is to administer DAO proposals and serve the vision of the community. This initial Board will only serve six months.
+2. A Board member may be removed and replaced prior to the term’s end pursuant to a majority vote of token holders.
+3. The total cost of implementation must be clear in order for a proposal to go to vote.
+4. DAO members must search past proposals to ensure any idea they intend to write a proposal for has not already been submitted.
+5. If a suggested proposal directly conflicts with a proposal that is currently up for vote, the second proposal should not go for a vote until a decision is made on the first proposal to avoid approval of opposing requirements.
+6. A suggested proposal that directly conflicts with another approved proposal cannot go to vote for three months after the original proposal has been implemented to avoid wasting community assets.
+7. Proposals will not be put up for a vote if they involve illegal activity, hate speech, pornographic material, or are at odds with the mission or values of the APE Foundation.
+
+
+APECOIN DAO HAS LAUNCHED ITS OFFICIAL MARKETPLACE
+Visit www.apecoinmarketplace.com to buy and sell Yuga NFTs and support the DAO. The custom marketplace includes unique features built specifically for the BAYC and Otherside communities, including ApeCoin staking and NFT metadata integrations, and will continue to improve based on community feedback.
+
+
+
+Disclaimer
+
+As approved by the Apecoin DAO via the passage of AIP-98,this marketplace is supported by the DAO. While this marketplace is currently supported by the DAO, the DAO may decide to change the nature of its support or rescind it entirely. Check back here for the latest status of the DAO's support status of this marketplace.
+AIP-98: A Community-First ApeCoin DAO Marketplace Proposal
+
+
+By : Zach Heerwagen (aka zheerwagen)
+
+
+Proposed : August 22
+Accepted : September 22
+
+
+ApeCoin DAO Marketplace Proposal V2
+After releasing our v1 marketplace proposal 68last week, we took a step back to digest MagicEden’s competing proposal and get feedback from the community. The last couple weeks has been inspiring, meeting new ApeCoin community members, and listening to feedback. Below you will find our updated draft, including a summary of the feedback received, how we’re adjusting, and why we’re the right builders for the job.
+At the heart of this proposal is our desire to build for the community, and embrace Web3 values of decentralization via composability, non-extraction, and interoperability.
+* Composability means parts of a system can be replaced and recombined so you can easily replace us as the ApeCoin DAO marketplace front end without impacting users.
+* Non-extraction means not charging more than you need, we take just enough to cover operating costs and keep building so we can do our best to return value to creators.
+* Interoperability means systems ability to use available data. By leveraging Reservoir0x we can both aggregate the most liquidity and make data available for aggregators and other user applications, something MagicEden has blocked on its Solana marketplace.
+If you don’t want to read the full proposal, please take a peak at what we’re building, and how we’re aiming to build the best Yuga-specific buying experience and skim the rest:
+Core Marketplace UI With Multi-Collection Interface:
+
+
+
+Item Page Surfacing ‘Matched’ and ‘Unused’ Items From Other Collections:
+
+
+
+Buy Now Flow Surfacing Marketplace Fee Savings vs. Opensea:
+
+
+
+Otherside Item Page With ‘Take Me There’ Button Deeplinked to Otherside Plot View:
+
+
+
+Abstract
+A community marketplace is a natural next step for the ApeCoin DAO. A successful community marketplace will: drive adoption of $APE through $APE listings, drive traffic to the ApeCoin DAO (apecoin.com 10), and decrease fees to community members by building a APE-native marketplace with rich ape-specific user experiences. In order to compete this marketplace must be cost competitive with fees in-line with or lower than competitors like X2Y2.
+Our marketplace will host all Yugaverse projects in a single marketplace UI, with dramatically reduced fees, keeping $$ in the BAYC ecosystem and improving the marketplace experience for both buyers and sellers.
+While we have a lot to share, some notable key features of the marketplace are the following:
+* Leveraging @reservoir0x’s open-source, on-chain orderbook to increase openness and composability.
+* Aggregated orders from major marketplaces (OpenSea, LooksRare, X2Y2, Sudoswap, and more) to maintain a strong bridge to the rest of the NFT market.
+* Native sales in $APE with no fees to users buying and selling in $APE.
+* A .5% marketplace fee on $ETH listings and a .25% fee in $APE. .25% of all fees will be sent to a community-held multi-sig wallet on a monthly cadence. The use of funds can then be decided in a separate AIP. (more on why later) The .25% from $ETH will be converted to $APE and sent to the wallet.
+* Development of contextual and ape-specific marketplace functionality, such as integration of key BAYC metadata, relation to the Otherside, and more.
+About Us :
+I’m Zach (Twitter 77/ LinkedIn 15) and prior to starting Snag Solutions 25I was an early leader at DoorDash. I built our early pickup and ads businesses and helped merchants like Chipotle, Papa Johns, and Panera, run their online ordering, and defined an early crypto strategy in my final months.
+I red-pilled into web3 last year, and fell in love with NFTs. BAYC was my first big purchase, and I’m a BAYC/MAYC/BAKC/Otherside holder. As a holder and early believer this project is not just a business opportunity for me, but a passion project. I see a massive opportunity to keep $$ in the BAYC ecosystem, reduce fraud, and drive $APE adoption.
+My co-founder Jason (Twitter 31/ LinkedIn 15) was our first merchant engineering manager at DoorDash and built both our early payments product and the carousels DoorDash still uses today. He’s one of the best developers I’ve ever worked with and loves to build for creators.
+We also have three advisors, all deeply engaged BAYC/MAYC members:
+* TropoFarmer (Twitter 11)
+* NFTPres (Twitter 17)
+* Champtgram (Twitter 17)
+What We’ve Heard From The Community
+We’ve spoken with a number of $APE community members over the last several weeks. There are four major topics that surfaced from our conversations. If you think we are missing anything at all, please comment so we can discuss.
+1. The $APE community wants to embrace Web3 values of decentralization, non-extraction, and composability. In a dream scenario many would want to build and run the marketplace themselves, but recognize this isn’t feasible today.
+2. An ApeCoin DAO marketplace must drive value for the community, but because the DAO isn’t legally set up to accept funds this is difficult to accomplish. There are four main proposals:
+* Burn $APE to drive token value through scarcity.
+* Fund marketplace incentives for marketplace users via tokenomics.
+* Send $APE to a donor advised fund that custodies the funds in $APE for a set time before donating.
+* Route money to a new ApeCoin sub-DAO that controls the funding, and is still governed by $APE token holders. This eliminates ApeCoin DAO legal complexity.
+3. The volatility of $APE makes it a challenging currency to list high-priced NFT’s in due to arbitrage opportunities, but use of $APE should still be encouraged.
+4. DAO members would prefer not to choose a single marketplace at this time without enabling competition. Further, there’s some concern about use of dedicated URL’s as likely to lead to more fraud.
+How we’re responding
+1. We’re partnering with @reservoir0x to leverage their open and on-chain orderbook. This comes with four key advantages:
+* Order data is stored on Arweave, unlocking benefits from storing orders on-chain without the cost. This enables free listings and offers like users expect, but without reliance on a centralized orderbook managed in a private database. This also allows for permissionless data availability so users can build tools and data visualizations using on-chain data while removing a key centralization vector.
+* Reservoir aggregates liquidity from across the ecosystem including orders from OpenSea, LooksRare, X2Y2, and more and enables order types that are unavailable in other marketplace stacks, like trait-based bidding. We’ll innovate on the BAYC marketplace front end while they build the richest on-chain NFT data repository enabling us to pull in novel features as they ship.
+* Since the Reservoir orderbook is on-chain (Arweave), the marketplace could easily be replaced if the community is dissatisfied with no loss of liquidity. For this reason, we are applying for a 6-month lease on a dedicated URL pointing to our hosted experience, and will apply for 6-12 month extensions following. This creates pressure for us to add value, if the DAO ever wants to replace us you can do it without impacting listings.
+* We’ll also partner with Reservoir0x to enable ERC-20 purchasing, since this functionality is already native to Reservoir, we’re eliminating our $50K request for funding so there’s no cost to the DAO.
+2. Due to lack of an obvious mechanism to add value to the DAO we’re reducing our fees. Our initial proposal increased fees to fund payments directly to the DAO treasury as a new revenue stream, but because the DAO is set up as a Cayman foundation it can’t accept funding without risking being ruled a security (for now). With this in mind we reduced fees to .5% on ETH and .25% on $APE with .25% of each transaction sent to a gnosis multi-sig as $APE for future community use.
+* Total fees: .25% on listings in $APE, and .5% for ETH listings, with .25% of each transaction going to the DAO so we make .25% only on $ETH transactions.
+* The multi-sig will be controlled by 7 reputable & doxxed community members with use of funds to be voted on at a later date.
+3. Because of strongly divided feedback across burning, incentives, and charitable contributions, we propose starting the funding stream immediately and tabling the topic for a separate AIP. This approach maintains an incentive to list in $APE via our 0% fee, and we can then explore solutions to enable listing in $ETH or $USDC with payment in $APE.
+* We’re open to supporting any path chosen by the community, but want to give the DAO time to make a decision on use of funds. We’re keeping our fees low so if the DAO wants to increase the seller fee on either $ETH or $APE transactions.
+* If there’s overwhelming support for the a single approach we can pivot, but our current POV is that use of funding is a critical DAO topic that should be tackled separately.
+4. We’re revising our proposal to request EITHER a dedicated URL ie. marketplace.apecoin.com 26AND/OR a dedicated link from the ApeCoin DAO homepage. If the community prefers to select multiple marketplaces we’re open to being one of severa URL’s or links available. That said, we believe a single marketplace will be best for the community so we don’t split attention and liquidity.
+Why Snag Solutions is the Right Partner and Where We’ll Go From Here
+1. We’re experienced marketplace builders who share a vision of helping creators and communities capture value by unbundling NFT marketplaces. Our roadmap improves upon the project-specific buying experience via a multi-collection UI, linking items across collections, improving token metadata, and building social tooling.
+2. We’re building project-specific marketplaces with creators and their communities in mind. Everything we’re building is project-specific. We plan to build creator first tools like private sales with no fees except for creator royalties, and can create a separate AIP to introduce this feature and help limit scams when ready.
+3. We’ll keep building for the ApeCoin community and collecting feedback but will focus on the NFT marketplace without touching adjacent revenue streams and marketplace categories like IP licensing or merch marketplaces leaving opportunities for other $APE community builders. Our .25% $ETH fee will fund ongoing development and we’ll use this as a key proof case for first party marketplaces.
+Finally, while fees are not the only thing that matters, we want to reiterate that we have a market ready product that we’re prepared to invest in at dramatically lower rates. Why would we let the leading Solana marketplace charge a full percent more for a similar, more centralized, offering?
+More importantly, why would anyone use that marketplace with a 1%+ fee over X2Y2?
+* $ETH fees:
+   * ME: 1.5%, .25% discount if BAYC/MAYC
+   * SNAG: .25% fee + .25% burn
+* $APE fees:
+   * ME: 1%, .25% discount if BAYC MAYC
+   * SNAG: .25% fee + .25% burn
+So to summarize:
+1. We’ll build a native marketplace that hosts all Yugaverse collections with .5% on $ETH listings and .25% fees on $APE listings with an open order book solution and aggregated liquidity. .25% of each transaction will be earmarked for the DAO, and we’ll apply for renewal in 6-months.
+2. All $APE fees will be routed to a community held multi-sig with use of funds to be voted on in a future AIP. This gives the DAO more time to determine how to best utilize new funding sources while taking $APE off of the market in the interim.
+3. We’re experienced marketplace builders, established community members, and flexible partners incentivized to drive value for the DAO. We’ll also never host a competitive marketplace hosting Yuga collections or silo marketplace liquidity to capture value.
+4. We’re entirely focused on and committed to innovating on the front end experience to make sure the ApeCoin DAO marketplace is the go-to destination for Yugaverse NFTs.
+Product Specifications | Overview of Snag Tech Stack
+1. Front end libraries - Next.js, Vercel
+2. Reservoir0x’s aggregated liquidity and open-source + on-chain order book.
+3. Light backend for social features like user profiles
+Next Steps & Timeline:
+1. Our partnership with Reservoir0x lets us to launch as soon as we complete the audit process.
+2. We’ll complete an audit prior to supporting this level of scale and want to enable the community to determine the best auditor for the job. We’re happy to do the work to find someone reputable who fits into our timeline, or can source from the community.
+Overall Cost:
+No cost to the DAO.
+Marketing commitments from ApeCoin DAO including:
+* A 6-month lease on a dedicated URL (ie. marketplace.apecoin.com 26) pointed to our hosted experience AND/OR a link to our URL from the ApeCoin homepage. We prefer both, but will take either depending on board and community feedback.
+* Twitter post(s) at launch
+Closing Thoughts & Helpful Links
+ApeCoin DAO is uniquely positioned to change the current dynamics of NFT marketplaces where the majority of value is captured by two marketplace providers. The $APE community deserves a dedicated marketplace for Yuga projects that is built with the collections in mind and minimally extractive. We can build this future alongside the community without concern of misaligned incentives stemming from a separate marketplace Ethereum marketplace.
+Finally, a note on Magic Eden’s proposal, I’m personally supportive of any of the three other marketplace proposals and trust the community will see the centralization risk associated with a ME marketplace. 17
+We look forward to hearing your feedback! Please comment or reach out via twitter 77if interested in chatting, and I’m excited to join any Ape-led spaces to share the message in the coming weeks.
+Helpful Links
+1. [Demo (Youtube) of BAYC Marketplace on MainNet](Snag Solutions ApeCoin Marketplace Demo - YouTube 41)
+– Our product design is modular and will be customized for Yuga collections to match the designs below. We already have the core-experience live on MainNet and are sharing our demo.
+2. Goblintown’s marketplace launch announcement 16 leveraging Snag Solutions.
+3. Reservoir0x launch announcement 10
+4. Why decentralization, composability, and non-extraction are relevant to the proposal:
+– The Layer: Solana NFT Marketplace Magic Eden Turns Centralized 17
+– NFT Now: NFT Marketplace Are Centralized, and It’s a Real Problem 2
+– Punk 6529: On Royalties 2(tweet thread)

@@ -17,8 +17,6 @@ const openai = new OpenAIApi(new Configuration({
   })
 );
 
-// Add Context to the bot using your content library
-
 client.on("messageCreate", async function (message) {
     if (message.author.bot) return;
     
@@ -26,7 +24,10 @@ client.on("messageCreate", async function (message) {
       const response = await openai.createChatCompletion({
           model: "gpt-3.5-turbo",
           messages: [
-              {role: "system", content: "You are like a friend who gives sarcastic, leg pulling responses but all in good fun"},
+              {
+                role: "system", content: "You are like a helpful assistant cum friend. Here's all the context you'll need :  "
+
+            },
               {role: "user", content: message.content}
           ],
         });
@@ -36,7 +37,7 @@ client.on("messageCreate", async function (message) {
   
     } catch (err) {
       return message.reply(
-        "I'm sorry, I'm not smart enogh to tell you that."
+        "As an AI robot, I errored out."
       );
     }
   });

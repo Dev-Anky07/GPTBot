@@ -1,6 +1,8 @@
 import dotenv from "dotenv";
 import { Client, GatewayIntentBits } from "discord.js";
 import { Configuration, OpenAIApi } from "openai";
+import { UnstructuredPDFLoader, OnlinePDFLoader, PyPDFLoader } from "langchain/document_loaders";
+import { RecursiveCharacterTextSplitter } from "langchain/text_splitter" ;
 
 dotenv.config();
 
@@ -17,16 +19,34 @@ const openai = new OpenAIApi(new Configuration({
   })
 );
 
+const conversationCache = {};
+
 client.on("messageCreate", async function (message) {
   if (message.author.bot) return;
+  // const conversationId = message.channel.id;
+  // const conversation = conversationCache[conversationId];
+
+  // Check if the message mentions the bot
+  //const botMentioned = message.mentions.has(client.user);
 
   try {
     // Your custom code starts here
-    const { UnstructuredPDFLoader, OnlinePDFLoader, PyPDFLoader } = require('langchain/document_loaders');
-    const { RecursiveCharacterTextSplitter } = require('langchain/text_splitter');
+    // const { UnstructuredPDFLoader, OnlinePDFLoader, PyPDFLoader } = require('langchain/document_loaders');
+    // const { RecursiveCharacterTextSplitter } = require('langchain/text_splitter');
+    // const pinecone = require('pinecone');
+
+    const { UnstructuredPDFLoader, OnlinePDFLoader, PyPDFLoader } = require('langchain').document_loaders;
+    const { RecursiveCharacterTextSplitter } = require('langchain').text_splitter;
     const pinecone = require('pinecone');
 
-    const loader = new PyPDFLoader("/workspace/Apecoin.pdf");
+
+    // pdf url : https://github.com/Dev-Anky07/GPTBot/blob/main/Apecoin.pdf
+    // pdf direcctory : GPTBot/blob/main/Apecoin.pdf
+    // Implement PDF loading using wither url or directory
+    // # loader = UnstructuredPDFLoader("../data/field-guide-to-data-science.pdf")
+    const loader = OnlinePDFLoader("https://github.com/Dev-Anky07/GPTBot/blob/main/Apecoin.pdf")
+
+    //const loader = new PyPDFLoader("/workspace/Apecoin.pdf");
     const data = loader.load();
 
     console.log(`You have ${data.length} document(s) in your data`);
@@ -69,7 +89,7 @@ client.on("messageCreate", async function (message) {
     const response = await openai.createChatCompletion({
       model: "gpt-3.5-turbo",
       messages: [
-        { role: "system", content: "You are using a custom model that acts as a helpful assistant for a specific product. This assistant has been trained on all the relevant data around the product to provide accurate and detailed information. It is designed to answer any questions new users may have. Imagine you are a new user of this product and ask any questions you have. The assistant will utilize its extensive knowledge to provide you with informative and helpful responses." },
+        { role: "system", content: "You are using a custom model that acts as a helpful assistant for a specific product. This assistant has been trained on all the relevant data around the product to provide accurate and detailed information. It is designed to answer any questions new users may have. Imagine you are a new user of this product and ask any questions you have. The assistant will utilize its extensive knowledge to provide you with informative and helpful responses. You'll be fed the most relevant data for every query to help you give better and more specific solutions to specific queries " },
         { role: "user", content: message.content }
       ],
     });
