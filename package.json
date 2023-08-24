@@ -10,7 +10,7 @@
   "author": "Anky",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^14.11.0",
+    "discord.js": "^14.12.1",
     "dotenv": "^16.3.1",
     "langchain": "^0.0.104",
     "openai": "^3.3.0",
